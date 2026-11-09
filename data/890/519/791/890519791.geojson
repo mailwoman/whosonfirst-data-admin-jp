@@ -43,8 +43,7 @@
         102191569,
         85632429,
         1108742919,
-        85672711,
-        85681261
+        85672711
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,8 +65,7 @@
             "continent_id":102191569,
             "country_id":85632429,
             "county_id":1108742919,
-            "localadmin_id":890519791,
-            "region_id":85681261
+            "localadmin_id":890519791
         }
     ],
     "wof:id":890519791,
